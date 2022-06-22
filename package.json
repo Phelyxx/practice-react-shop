@@ -1,5 +1,5 @@
 {
-  "homepage": "https://phelyxx.github.io/nombre-de-mi-repo/",
+  "homepage": "https://phelyxx.github.io/practice-react-shop/",
   "name": "react-shop",
   "version": "1.0.0",
   "description": "react eshop",
@@ -33,6 +33,7 @@
   },
   "devDependencies": {
     "css-loader": "^6.2.0",
+    "gh-pages": "^4.0.0",
     "mini-css-extract-plugin": "^2.2.0",
     "sass": "^1.38.0",
     "sass-loader": "^12.1.0",
